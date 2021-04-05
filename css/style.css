@@ -1,0 +1,35 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar-nav{
+    background-color: #6c7;
+}
+.quem-somos{
+    background-color: #8181F7;
+    color: white;
+}
+
+
+.margin{
+padding-bottom: 100px;
+padding-top: 30px;
+
+}
+
+.parceiros{
+    background-color: #5858FA;
+    color: white;
+}
+
+.servicos{
+    background-color: teal;
+    color: white;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
